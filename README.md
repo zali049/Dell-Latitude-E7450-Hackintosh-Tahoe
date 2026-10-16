@@ -1,7 +1,7 @@
 <H1>Dell Latitude E7450 Hackintosh Tahoe</H1>
 
 <h3>FIX Graphical glitches</h3>
-(Recommended) Enable 'Enable Legacy Option ROMs' in the BIOS by clicking General>Advanced Boot Options.
+Enable 'Enable Legacy Option ROMs' in the BIOS by clicking General>Advanced Boot Options.
 
 <h3>FIX GPU acceleration</h3>
 Using OpenCore Legacy Patcher 3.0.3-rc3 <a href="https://github.com/dortania/Opencore-Legacy-Patcher/releases#release-3.0.0-rc.3">here</a>
