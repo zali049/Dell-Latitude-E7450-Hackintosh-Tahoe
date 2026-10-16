@@ -1,4 +1,4 @@
-Dell Latitude E7450 Hackintosh Tahoe
+<H1>Dell Latitude E7450 Hackintosh Tahoe</H1>
 
 FIX Graphical glitches 
 (Recommended) Enable 'Enable Legacy Option ROMs' in the BIOS by clicking General>Advanced Boot Options.
