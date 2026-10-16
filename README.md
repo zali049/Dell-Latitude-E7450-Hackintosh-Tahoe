@@ -4,7 +4,7 @@
 Enable 'Enable Legacy Option ROMs' in the BIOS by clicking General>Advanced Boot Options.
 
 <h3>FIX GPU acceleration</h3>
-Using OpenCore Legacy Patcher 3.0.3-rc3 <a href="https://github.com/dortania/Opencore-Legacy-Patcher/releases#release-3.0.0-rc.3">here</a>
+Using OpenCore Legacy Patcher 3.0.0-rc3 <a href="https://github.com/dortania/Opencore-Legacy-Patcher/releases#release-3.0.0-rc.3">here</a>
 
 <h3>FIX AUDIO</h3> 
 Install AppleHDA.kext Using MyKextInstaller <a href="https://github.com/Mirone/MyKextInstaller/">here</a>
