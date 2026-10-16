@@ -9,6 +9,16 @@ Using OpenCore Legacy Patcher 3.0.0-rc3 <a href="https://github.com/dortania/Ope
 <h3>FIX AUDIO</h3> 
 Install AppleHDA.kext Using MyKextInstaller <a href="https://github.com/Mirone/MyKextInstaller/">here</a>
 
+<h3>CHANGING SMBIOS</h3>
+To change your SMBIOS, you can use OCAuxiliaryTools, available <a href="https://github.com/ic005k/OCAuxiliaryTools">here</a>.
+<ul>
+  <li>Open the OCAuxiliaryTools and mount your EFI partition.</li>
+  <li>Go to the PI (PlatformInfo) menu.</li>
+  <li>Click "Generate" then save your changes.</li>
+  <li>Close the application and restart your computer.</li>
+  <li>Enjoy!</li>
+</ul>
+
 <h3>SCREENSHOOT</h3> 
 <img width="1920" height="1080" alt="Screenshot 2026-10-15 at 18 29 52" src="https://github.com/user-attachments/assets/f89bafc1-2773-455d-9a80-cabf73f66dfd" />
 
